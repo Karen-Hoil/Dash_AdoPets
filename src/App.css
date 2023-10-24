@@ -1,0 +1,45 @@
+*{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+}
+.fondo{
+  background-color: rgba(194, 194, 194, 0.678);
+  margin-top: 20px;
+  border-radius: 5px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  display: flex;
+}
+.header{
+  background-color: rgb(206, 240, 241);
+  display: inline-flex;
+  width: 100%;
+  border-radius: 20px;
+  height: 70px;
+  align-items: center;
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.089);
+}
+.header h1{
+  margin-left: 10px;
+  margin-right: 580px;
+}
+.header img{
+  margin-left: 100px;
+  width: 50px;
+  height: 50px;
+}
+.card_mascota{
+  background-color: white;
+  border-radius: 10px;
+  width: 300px;
+  padding-bottom: 3px;
+}
+.card_mascota button{
+  margin-left: 50px;
+  margin-bottom: 10px;
+}
+.card_mascota h1{
+  text-align: center;
+}
